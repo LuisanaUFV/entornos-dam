@@ -29,6 +29,6 @@ public class Circulo {
 		return perimetro;
 	}
 	public void imprimirFigura() {
-		System.out.println("La figura Círculo tiene radio: " + radio);
+		System.out.println("La FIGURA Círculo tiene radio: " + radio);
 	}
 }
