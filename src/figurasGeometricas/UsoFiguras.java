@@ -24,7 +24,7 @@ public class UsoFiguras {
 				sc.next();
 				opcion = 0;
 			} catch (Exception ex) {
-				System.err.println("Error desconocido " + ex.getMessage());
+				System.err.println("ERROR desconocido " + ex.getMessage());
 				sc.next();
 				opcion = 0;
 			}
