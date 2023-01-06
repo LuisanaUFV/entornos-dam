@@ -12,7 +12,7 @@ public class UsoFiguras {
 		int radio = 0, lado = 0, altura = 0, ancho = 0, alto = 0;
 		
 		do  {
-			System.out.println("\n\t\tElige la figura a crear."
+			System.out.println("\n\t\tElige la FIGURA a crear."
 					+ "\n\t\t1) Círculo"
 					+ "\n\t\t2) Triángulo Equilátero"
 					+ "\n\t\t3) Rectángulo"
